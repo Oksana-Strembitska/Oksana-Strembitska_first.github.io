@@ -2,4 +2,10 @@
           width: 200px;
           height: 200px;
           background-color: orange;
+          display: inline-block;
+          margin-right: 20px;
+      }
+
+      .box:last-child{
+          margin-right: 0;
       }
